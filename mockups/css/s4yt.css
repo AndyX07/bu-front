@@ -186,7 +186,13 @@ html, body {
   margin-top:2vh;
 }
     
-  
+#powerbyt{
+  text-align: left;
+  font-size: 60px;
+  color: white;
+  margin-top: 5px;
+  margin-right: 10px;
+}
 
 #txt1, #txt2, #txt3, #txt4, #txt5{
   display:none;
