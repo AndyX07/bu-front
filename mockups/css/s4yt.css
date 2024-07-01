@@ -6,7 +6,7 @@ html, body {
 
 @font-face {
   font-family: "NightZone";
-  src: url("../../fonts/NightZone.ttf")format('truetype');
+  src: url("../css/Night\ Zone.ttf")format('truetype');
 }
 
 @font-face {
