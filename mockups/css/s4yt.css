@@ -13,7 +13,6 @@ html, body {
   font-family: 'corbel';
   src: url('corbel.ttf') format('truetype');
 }
-
 #bar{
   display:flex;
   flex-direction: row;
@@ -192,6 +191,11 @@ html, body {
   color: white;
   margin-top: 5px;
   margin-right: 10px;
+}
+
+.listinfo{
+  padding: 10px;
+  font-size: 20px;
 }
 
 #txt1, #txt2, #txt3, #txt4, #txt5{
